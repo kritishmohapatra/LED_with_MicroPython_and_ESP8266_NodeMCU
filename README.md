@@ -51,7 +51,7 @@ Follow these steps carefully to connect the hardware components:
     * LED: Positive leg (anode) to the same breadboard row as the resistor, negative leg (cathode) to a GND pin on the NodeMCU.
 
 ## Circuit Diagram
-![ESP8266 Home Automation System with Blynk and DHT11](circuit_image_(3).png)
+![LED_Control_with_MicroPython_and_ESP8266_NodeMCU](circuit_image%20(3).png)
 
 
 ## Software
