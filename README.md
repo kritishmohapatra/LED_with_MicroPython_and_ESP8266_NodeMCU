@@ -75,4 +75,6 @@ To program and interact with the ESP8266 NodeMCU, you'll need the following soft
     * `ampy` (Adafruit MicroPython Tool): A command-line tool specifically designed for managing files on MicroPython devices.
 
     * Thonny: A Python IDE with built-in support for MicroPython, making it easy to write, upload, and run code on microcontrollers.
+## Practical Image
+![Practical Image](Led.jpg)
 
